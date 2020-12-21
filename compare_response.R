@@ -1,7 +1,7 @@
 #' compare_response
 #'
-#' @param res1 This is the first response the user inputs
-#' @param res2 This is the second response the user inputs
+#' @param res1 This is the first value the user inputs
+#' @param res2 This is the second value the user inputs
 #'
 #' @return This returns a line with the result of comparison of two inputs
 #' @export

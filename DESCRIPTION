@@ -13,7 +13,6 @@ Imports:
     dplyr,
     jsonlite,
     RMySQL,
-    ggplot2,
     plotly,
     gapminder,
     fitdistrplus,

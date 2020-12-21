@@ -7,5 +7,5 @@
 #'
 #' @examples
 mape <- function(backtestmodel){
-  colMeans(abs(backtestmodel$error/(backtestmodel$error+backtestice$forecast)), na.rm = TRUE)
+  colMeans(abs(backtestmodel$error/(backtestmodel$error+backtestmodel$forecast)), na.rm = TRUE)
 }
