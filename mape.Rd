@@ -2,7 +2,7 @@
 % Please edit documentation in R/mape.R
 \name{mape}
 \alias{mape}
-\title{mape}
+\title{Moving Average Percentage Error}
 \usage{
 mape(backtestmodel)
 }
@@ -13,5 +13,5 @@ mape(backtestmodel)
 The function returns the moving average percentage error in the backtesting model
 }
 \description{
-mape
+Moving Average Percentage Error
 }

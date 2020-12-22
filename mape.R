@@ -1,4 +1,4 @@
-#' mape
+#' Moving Average Percentage Error
 #'
 #' @param backtestmodel This is the model used in backtesting
 #'

@@ -1,4 +1,4 @@
-#' mean_binomial_sample
+#' Mean of Binomial Samples
 #'
 #' @param samplesize This is the size of the random sample that you want to generate
 #' @param n This is the number of trials in the binomial distribution

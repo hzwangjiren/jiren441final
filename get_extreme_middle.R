@@ -1,4 +1,4 @@
-#' get_extreme_middle
+#' Get the AveraGe of Extreme values in Data
 #'
 #' @param data This should be a column or row of data
 #'

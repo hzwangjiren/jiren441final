@@ -2,7 +2,7 @@
 % Please edit documentation in R/get_extreme_middle.R
 \name{get_extreme_middle}
 \alias{get_extreme_middle}
-\title{get_extreme_middle}
+\title{Get the AveraGe of Extreme values in Data}
 \usage{
 get_extreme_middle(data = c(1, 2, 3, 4))
 }
@@ -13,7 +13,7 @@ get_extreme_middle(data = c(1, 2, 3, 4))
 Returns the average of the largest and the smallest number inside the data colomn/row
 }
 \description{
-get_extreme_middle
+Get the AveraGe of Extreme values in Data
 }
 \examples{
 get_extreme_middle(c(1,2))

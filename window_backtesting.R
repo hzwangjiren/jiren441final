@@ -1,4 +1,4 @@
-#' window_backtesting
+#' Moving Window Backtesting Function
 #'
 #' @param model This is the linear regression model used on time series
 #' @param data This is the time series data

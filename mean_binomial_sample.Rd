@@ -2,7 +2,7 @@
 % Please edit documentation in R/mean_binomial_sample.R
 \name{mean_binomial_sample}
 \alias{mean_binomial_sample}
-\title{mean_binomial_sample}
+\title{Mean of Binomial Samples}
 \usage{
 mean_binomial_sample(samplesize, n = 2, p = 0.5)
 }
@@ -17,7 +17,7 @@ mean_binomial_sample(samplesize, n = 2, p = 0.5)
 The function returns the mean of the random sample of binomial distribution generated.
 }
 \description{
-mean_binomial_sample
+Mean of Binomial Samples
 }
 \examples{
 mean_binomial_sample(50,10,0.5)

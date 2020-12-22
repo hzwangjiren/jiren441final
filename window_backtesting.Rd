@@ -2,7 +2,7 @@
 % Please edit documentation in R/window_backtesting.R
 \name{window_backtesting}
 \alias{window_backtesting}
-\title{window_backtesting}
+\title{Moving Window Backtesting Function}
 \usage{
 window_backtesting(
   model,
@@ -36,5 +36,5 @@ window_backtesting(
 This function returns the RMSE and Mean Absolute Error of the model
 }
 \description{
-window_backtesting
+Moving Window Backtesting Function
 }

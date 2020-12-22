@@ -1,4 +1,4 @@
-#' compare_response
+#' User Inputs Size Comparison
 #'
 #' @param res1 This is the first value the user inputs
 #' @param res2 This is the second value the user inputs

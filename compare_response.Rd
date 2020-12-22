@@ -2,7 +2,7 @@
 % Please edit documentation in R/compare_response.R
 \name{compare_response}
 \alias{compare_response}
-\title{compare_response}
+\title{User Inputs Size Comparison}
 \usage{
 compare_response(res1, res2)
 }
@@ -15,7 +15,7 @@ compare_response(res1, res2)
 This returns a line with the result of comparison of two inputs
 }
 \description{
-compare_response
+User Inputs Size Comparison
 }
 \examples{
 compare_response()
